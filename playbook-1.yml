@@ -8,10 +8,10 @@
      debug:
        msg: "HELLO WORLD LINUX {{B}}"
      vars:
-         B: "message by local" 
+        B: "message by local" 
    - name: task-2
      debug:
-      msg: " my linux engineers"    
+       msg: " my linux engineers"    
    - name: t-3
      debug:
        msg: " DEVOPS ENGINNERS"
